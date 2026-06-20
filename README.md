@@ -73,7 +73,14 @@ Output<br>
 - EDA Playground
 - GTKWave
 
----
+---  
+
+
+## Acknowledgement
+
+I would like to express my sincere gratitude to **Mr. Umesh Yadav (IIP)** for his guidance, mentorship, and support throughout this project. His insights into RTL design, verification, and VLSI fundamentals greatly contributed to the successful completion of this work.
+
+---<br>
 
 ## Author
 
