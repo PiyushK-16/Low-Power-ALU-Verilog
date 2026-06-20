@@ -51,19 +51,19 @@ Output<br>
 
 ### Addition
 
-![ADD](waveforms/add_waveform.png)
+![ADD](screenshot/add_alu_waveform.png)
 
 ### Subtraction
 
-![SUB](waveforms/sub_waveform.png)
+![SUB](screenshot/sub_alu_waveform.png)
 
 ### Compare
 
-![COMPARE](waveforms/compare_waveform.png)
+![COMPARE](screenshot/compare_alu_waveform.png)
 
 ### Operand Isolation
 
-![LOWPOWER](waveforms/operand_isolation.png)
+![LOWPOWER](screenshot/operand_isolation.png)
 
 ---
 
